@@ -1,3 +1,4 @@
+console.log("ppp");
 $(function(){
         $("#open").show();
         $("#close").hide();
